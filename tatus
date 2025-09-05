@@ -1,0 +1,7 @@
+[33mcommit 1000a0ae8ef78402fc57b073f31e0b84b873633f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/thiago/livro-por-autor[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: JulianaAmoasei <late.parrot@gmail.com>
+Date:   Wed Feb 22 15:13:20 2023 -0300
+
+    feat: :tada: add: arquivos iniciais do curso
+    
+    Este commit contém os arquivos iniciais do curso de worflows para devs. Comece por aqui!
